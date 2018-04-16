@@ -1,0 +1,29 @@
+Command line:
+   tb_fullad2bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61898
+
+Wed Dec 06 21:21:31 2017
+
+
+ Elaboration Time: 0.031201 sec
+
+ Current Memory Usage: 490.5 Meg
+
+ Total Signals          : 23
+ Total Nets             : 21
+ Total Signal Drivers   : 13
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 15
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 104
+Total Line Count : 24
+
+ Total Simulation Time: 0.031201 sec
+
+ Current Memory Usage: 491.549 Meg
+
+Wed Dec 06 21:21:45 2017
+

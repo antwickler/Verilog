@@ -1,0 +1,6 @@
+vhdtdtfi -lib work D:/57083/Verilog/fulladder.v -lang verilog -prj Verilog -o fulladder.spl -module fulladder -template C:/Xilinx/13.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e fulladder.spl D:/57083/Verilog/fulladder.sym 
+vhdtdtfi -lang verilog -prj Verilog -o D:/57083/Verilog/fulladder.tfi -lib work D:/57083/Verilog//fulladder.v -module fulladder -template C:/Xilinx/13.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/57083/Verilog/fulladder.xst" -ofn "D:/57083/Verilog/fulladder.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/fulladder.xst" -ofn "D:/57083/Verilog/fulladder.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/fulladder.xst" -ofn "D:/57083/Verilog/fulladder.syr" 

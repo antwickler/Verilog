@@ -1,0 +1,25 @@
+ISim log file
+Running: D:\57083\Verilog\tb_bcd7segment_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/57083/Verilog/tb_bcd7segment_isim_beh.wdb 
+ISim O.87xd (signature 0x2f00eba5)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+cin=x,seg=      xxxxxxx
+cin=0,seg=      1111110
+cin=1,seg=      0110000
+cin=2,seg=      1101101
+cin=3,seg=      1111001
+cin=4,seg=      0110011
+cin=5,seg=      1011011
+cin=6,seg=      1011111
+cin=7,seg=      1110000
+cin=8,seg=      1111111
+cin=9,seg=      1111011
+Stopped at time : 110 ns :  in File "D:/57083/Verilog/tb_bcd7segment.v" Line 46 

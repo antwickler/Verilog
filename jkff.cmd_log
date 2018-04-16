@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/57083/Verilog/jkff.xst" -ofn "D:/57083/Verilog/jkff.syr" 

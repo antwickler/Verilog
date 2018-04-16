@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/57083/Verilog/tb_bcd7segment_isim_beh.exe" -prj "D:/57083/Verilog/tb_bcd7segment_beh.prj" "work.tb_bcd7segment" "work.glbl" 

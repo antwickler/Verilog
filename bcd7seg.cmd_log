@@ -1,0 +1,14 @@
+vhdtdtfi -lib work D:/57083/Verilog/bcd7seg.v -lang verilog -prj Verilog -o bcd7seg.spl -module bcd7seg -template C:/Xilinx/13.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e bcd7seg.spl D:/57083/Verilog/bcd7seg.sym 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 
+xst -intstyle ise -ifn "D:/57083/Verilog/bcd7seg.xst" -ofn "D:/57083/Verilog/bcd7seg.syr" 

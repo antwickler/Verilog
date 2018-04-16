@@ -1,0 +1,6 @@
+MO dff NULL dff.v vlg28/dff.bin 1512562045
+MO fulladder NULL fulladder.v vlg33/fulladder.bin 1512563036
+MO decoder2to4 NULL decoder2to4.v vlg7F/decoder2to4.bin 1512560694
+MO syncount4bit NULL syncount4bit.v vlg72/syncount4bit.bin 1512565921
+MO bcd7seg NULL bcd7seg.v vlg0B/bcd7seg.bin 1512568960
+MO jkff NULL jkff.v vlg19/jkff.bin 1512561094
